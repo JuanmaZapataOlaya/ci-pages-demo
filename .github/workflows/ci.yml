@@ -7,9 +7,9 @@ permissions:
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "gh-pages" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "gh-pages" ]
 
 jobs:
 
